@@ -1,0 +1,64 @@
+{"action": "test", "subject": 1, "difficulty": 1, "test_score": 43.2467300475099, "reward": -5, "skills": [13.585790362320484, 22.1545254963479]}
+{"action": "train", "subject": 2, "difficulty": 1, "improvement": 4.227183835862846, "learning_unit": 1, "reward": -1, "skills": [13.585790362320484, 26.381709332210747]}
+{"action": "test", "subject": 2, "difficulty": 1, "test_score": 68.72091969535951, "reward": 269.88367878143805, "skills": [13.585790362320484, 26.381709332210747]}
+{"action": "train", "subject": 2, "difficulty": 1, "improvement": 2.439742538740426, "learning_unit": 1, "reward": -1, "skills": [13.585790362320484, 28.821451870951172]}
+{"action": "train", "subject": 2, "difficulty": 2, "improvement": 0.979417304045867, "learning_unit": 1, "reward": -1, "skills": [13.585790362320484, 29.80086917499704]}
+{"action": "test", "subject": 1, "difficulty": 3, "test_score": 1.3521121535379523, "reward": -5, "skills": [13.585790362320484, 29.80086917499704]}
+{"action": "test", "subject": 2, "difficulty": 2, "test_score": 32.05761235036904, "reward": 59.11522470073808, "skills": [13.585790362320484, 29.80086917499704]}
+{"action": "train", "subject": 2, "difficulty": 2, "improvement": 0.7515781312415553, "learning_unit": 1, "reward": -1, "skills": [13.585790362320484, 30.552447306238594]}
+{"action": "test", "subject": 2, "difficulty": 2, "test_score": 20.347227553867956, "reward": -51.84153918600434, "skills": [13.585790362320484, 30.552447306238594]}
+{"action": "test", "subject": 2, "difficulty": 2, "test_score": 18.845481152665343, "reward": -5, "skills": [13.585790362320484, 30.552447306238594]}
+{"action": "train", "subject": 2, "difficulty": 1, "improvement": 5.857683630025328, "learning_unit": 1, "reward": -1, "skills": [13.585790362320484, 36.410130936263926]}
+{"action": "test", "subject": 2, "difficulty": 2, "test_score": 40.77139633484535, "reward": 82.70366072872002, "skills": [13.585790362320484, 36.410130936263926]}
+{"action": "train", "subject": 1, "difficulty": 1, "improvement": 2.6563386098155948, "learning_unit": 1, "reward": -1, "skills": [16.24212897213608, 36.410130936263926]}
+{"action": "train", "subject": 1, "difficulty": 2, "improvement": 0.453199791051799, "learning_unit": 1, "reward": -1, "skills": [16.695328763187877, 36.410130936263926]}
+{"action": "test", "subject": 2, "difficulty": 2, "test_score": 28.42932527090089, "reward": -5, "skills": [16.695328763187877, 36.410130936263926]}
+{"action": "train", "subject": 2, "difficulty": 2, "improvement": 3.993733488807482, "learning_unit": 1, "reward": -1, "skills": [16.695328763187877, 40.403864425071404]}
+{"action": "train", "subject": 2, "difficulty": 2, "improvement": 3.4958309839769717, "learning_unit": 1, "reward": -1, "skills": [16.695328763187877, 43.89969540904838]}
+{"action": "train", "subject": 2, "difficulty": 2, "improvement": 3.5107116934388385, "learning_unit": 2, "reward": -2, "skills": [16.695328763187877, 47.41040710248721]}
+{"action": "test", "subject": 2, "difficulty": 2, "test_score": 72.98432157631953, "reward": 39.55499630541864, "skills": [16.695328763187877, 47.41040710248721]}
+{"action": "train", "subject": 1, "difficulty": 2, "improvement": 0.9458679460937585, "learning_unit": 1, "reward": -1, "skills": [17.641196709281637, 47.41040710248721]}
+{"action": "test", "subject": 1, "difficulty": 1, "test_score": 53.744410548630306, "reward": 8.996907334827208, "skills": [17.641196709281637, 47.41040710248721]}
+{"action": "test", "subject": 1, "difficulty": 2, "test_score": 15.68504915986332, "reward": -5, "skills": [17.641196709281637, 47.41040710248721]}
+{"action": "train", "subject": 1, "difficulty": 1, "improvement": 4.082865552015692, "learning_unit": 1, "reward": -1, "skills": [21.724062261297327, 47.41040710248721]}
+{"action": "test", "subject": 1, "difficulty": 2, "test_score": 13.000640505111647, "reward": -15.737634619006691, "skills": [21.724062261297327, 47.41040710248721]}
+{"action": "test", "subject": 1, "difficulty": 2, "test_score": 8.599513254745013, "reward": -5, "skills": [21.724062261297327, 47.41040710248721]}
+{"action": "train", "subject": 1, "difficulty": 2, "improvement": 0.5540066058492126, "learning_unit": 1, "reward": -1, "skills": [22.27806886714654, 47.41040710248721]}
+{"action": "test", "subject": 1, "difficulty": 3, "test_score": 5.070691863985914, "reward": 9.874318841791847, "skills": [22.27806886714654, 47.41040710248721]}
+{"action": "train", "subject": 1, "difficulty": 2, "improvement": 0.8640634960878121, "learning_unit": 1, "reward": -1, "skills": [23.142132363234353, 47.41040710248721]}
+{"action": "train", "subject": 2, "difficulty": 2, "improvement": 5.322981209702094, "learning_unit": 1, "reward": -1, "skills": [23.142132363234353, 52.733388312189305]}
+{"action": "train", "subject": 1, "difficulty": 1, "improvement": 9.7279006216659, "learning_unit": 3, "reward": -3, "skills": [32.87003298490025, 52.733388312189305]}
+{"action": "test", "subject": 1, "difficulty": 2, "test_score": 21.595849795705043, "reward": 7.99633654096003, "skills": [32.87003298490025, 52.733388312189305]}
+{"action": "train", "subject": 1, "difficulty": 2, "improvement": 1.0797304044401932, "learning_unit": 1, "reward": -1, "skills": [33.94976338934044, 52.733388312189305]}
+{"action": "train", "subject": 1, "difficulty": 2, "improvement": 10.459561695029366, "learning_unit": 3, "reward": -3, "skills": [44.409325084369804, 52.733388312189305]}
+{"action": "test", "subject": 1, "difficulty": 3, "test_score": 5.73470810423965, "reward": -4.335983759746264, "skills": [44.409325084369804, 52.733388312189305]}
+{"action": "train", "subject": 1, "difficulty": 2, "improvement": 2.512529000719556, "learning_unit": 1, "reward": -1, "skills": [46.92185408508936, 52.733388312189305]}
+{"action": "train", "subject": 1, "difficulty": 2, "improvement": 1.7765084549265757, "learning_unit": 1, "reward": -1, "skills": [48.698362540015935, 52.733388312189305]}
+{"action": "test", "subject": 1, "difficulty": 3, "test_score": 19.21099635291261, "reward": 21.952576497345916, "skills": [48.698362540015935, 52.733388312189305]}
+{"action": "train", "subject": 2, "difficulty": 2, "improvement": 4.6209761726347, "learning_unit": 2, "reward": -2, "skills": [48.698362540015935, 57.354364484824]}
+{"action": "train", "subject": 2, "difficulty": 2, "improvement": 7.6620585110478325, "learning_unit": 3, "reward": -3, "skills": [48.698362540015935, 65.01642299587184]}
+{"action": "train", "subject": 2, "difficulty": 2, "improvement": 4.246560395441514, "learning_unit": 2, "reward": -2, "skills": [48.698362540015935, 69.26298339131336]}
+{"action": "test", "subject": 2, "difficulty": 3, "test_score": 40.637976649895144, "reward": 15.318988324947572, "skills": [48.698362540015935, 69.26298339131336]}
+{"action": "test", "subject": 1, "difficulty": 3, "test_score": 12.501829091060069, "reward": -5, "skills": [48.698362540015935, 69.26298339131336]}
+{"action": "train", "subject": 1, "difficulty": 3, "improvement": 1.6240591961173427, "learning_unit": 2, "reward": -2, "skills": [50.32242173613328, 69.26298339131336]}
+{"action": "train", "subject": 1, "difficulty": 3, "improvement": 1.8828162046605792, "learning_unit": 2, "reward": -2, "skills": [52.20523794079386, 69.26298339131336]}
+{"action": "train", "subject": 1, "difficulty": 2, "improvement": 10.628563778226527, "learning_unit": 3, "reward": -3, "skills": [62.833801719020386, 69.26298339131336]}
+{"action": "test", "subject": 1, "difficulty": 3, "test_score": 24.63147013066113, "reward": 1.931223451200606, "skills": [62.833801719020386, 69.26298339131336]}
+{"action": "train", "subject": 1, "difficulty": 3, "improvement": 2.882347237531356, "learning_unit": 3, "reward": -3, "skills": [65.71614895655175, 69.26298339131336]}
+{"action": "train", "subject": 1, "difficulty": 2, "improvement": 9.810085078852847, "learning_unit": 3, "reward": -3, "skills": [75.5262340354046, 69.26298339131336]}
+{"action": "train", "subject": 1, "difficulty": 2, "improvement": 2.510848437549756, "learning_unit": 3, "reward": -3, "skills": [78.03708247295435, 69.26298339131336]}
+{"action": "test", "subject": 1, "difficulty": 3, "test_score": 60.30870027579192, "reward": 10.85654673116924, "skills": [78.03708247295435, 69.26298339131336]}
+{"action": "train", "subject": 2, "difficulty": 2, "improvement": 1.2824204685463143, "learning_unit": 3, "reward": -3, "skills": [78.03708247295435, 70.54540385985968]}
+{"action": "test", "subject": 2, "difficulty": 3, "test_score": 37.187948934146725, "reward": -9.600036954331227, "skills": [78.03708247295435, 70.54540385985968]}
+{"action": "train", "subject": 1, "difficulty": 3, "improvement": 8.411055223998304, "learning_unit": 3, "reward": -3, "skills": [86.44813769695266, 70.54540385985968]}
+{"action": "train", "subject": 2, "difficulty": 3, "improvement": 6.549646414059539, "learning_unit": 3, "reward": -3, "skills": [86.44813769695266, 77.09505027391921]}
+{"action": "train", "subject": 2, "difficulty": 2, "improvement": 1.081756470950121, "learning_unit": 3, "reward": -3, "skills": [86.44813769695266, 78.17680674486934]}
+{"action": "test", "subject": 2, "difficulty": 3, "test_score": 62.980799931414396, "reward": 12.195233998178448, "skills": [86.44813769695266, 78.17680674486934]}
+{"action": "test", "subject": 1, "difficulty": 3, "test_score": 82.16693438606845, "reward": 24.144312147035368, "skills": [86.44813769695266, 78.17680674486934]}
+{"action": "test", "subject": 2, "difficulty": 3, "test_score": 56.42291227358778, "reward": -5, "skills": [86.44813769695266, 78.17680674486934]}
+{"action": "test", "subject": 1, "difficulty": 3, "test_score": 83.23056435846055, "reward": -5, "skills": [86.44813769695266, 78.17680674486934]}
+{"action": "train", "subject": 1, "difficulty": 3, "improvement": 10.963965781997565, "learning_unit": 3, "reward": -3, "skills": [97.41210347895023, 78.17680674486934]}
+{"action": "train", "subject": 2, "difficulty": 3, "improvement": 5.960988390068218, "learning_unit": 3, "reward": -3, "skills": [97.41210347895023, 84.13779513493756]}
+{"action": "test", "subject": 1, "difficulty": 3, "test_score": 100.0, "reward": 100, "skills": [97.41210347895023, 84.13779513493756]}
+{"action": "train", "subject": 2, "difficulty": 3, "improvement": 5.440052830462156, "learning_unit": 3, "reward": -3, "skills": [97.41210347895023, 89.57784796539971]}
+{"action": "test", "subject": 2, "difficulty": 3, "test_score": 100.0, "reward": 600, "skills": [97.41210347895023, 89.57784796539971]}

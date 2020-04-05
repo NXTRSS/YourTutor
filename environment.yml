@@ -1,0 +1,13 @@
+name: hackyeah2
+channels:
+  - powerai
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7
+  - gym=0.15.3
+  - tensorflow<=1.14
+  - mpi4py=3.0.3
+  - nomkl=3.0
+  - pip:
+      - stable-baselines
